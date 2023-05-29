@@ -1,7 +1,7 @@
 ﻿namespace LayeredArchitecture
 {
     // Presentation Layer (UI)
-    class Program
+    public class Program
     {
         static void Main()
         {
@@ -26,7 +26,7 @@
     }
 
     // Business Logic Layer
-    class UserService
+    public class UserService
     {
         private UserRepository userRepository;
 
@@ -49,7 +49,7 @@
     }
 
     // Data Access Layer
-    class UserRepository
+    public class UserRepository
     {
         private List<User> users;
 
@@ -70,7 +70,7 @@
     }
 
     // Domain Model
-    class User
+    public class User
     {
         public string Username { get; set; }
         public string Password { get; set; }

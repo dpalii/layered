@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "layered", "layered.csproj", "{0616565F-B525-44DF-961D-2CE49D88385F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "layered-tests", "..\layered-tests\layered-tests.csproj", "{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0616565F-B525-44DF-961D-2CE49D88385F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0616565F-B525-44DF-961D-2CE49D88385F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0616565F-B525-44DF-961D-2CE49D88385F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
