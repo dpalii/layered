@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "layered", "layered.csproj", "{0616565F-B525-44DF-961D-2CE49D88385F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "layered", "layered.csproj", "{0616565F-B525-44DF-961D-2CE49D88385F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "layered-tests", "..\layered-tests\layered-tests.csproj", "{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "layered-tests", "layered-tests\layered-tests.csproj", "{901FE2DA-CA88-442E-A4E0-BEF82A77EB8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0616565F-B525-44DF-961D-2CE49D88385F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0616565F-B525-44DF-961D-2CE49D88385F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0616565F-B525-44DF-961D-2CE49D88385F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5842F379-BF1E-4AE7-AAA9-0717CBFE5E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901FE2DA-CA88-442E-A4E0-BEF82A77EB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901FE2DA-CA88-442E-A4E0-BEF82A77EB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901FE2DA-CA88-442E-A4E0-BEF82A77EB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901FE2DA-CA88-442E-A4E0-BEF82A77EB8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
